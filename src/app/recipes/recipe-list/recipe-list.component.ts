@@ -14,6 +14,11 @@ export class RecipeListComponent implements OnInit {
 			'This is test recipe',
 			'https://placeimg.com/100/100/nature'
 		),
+		new Recipe(
+			'A Test Recipe',
+			'This is test recipe',
+			'https://placeimg.com/100/100/nature'
+		),
 	];
 
 	/* INITIAL METHODS */
